@@ -10,6 +10,7 @@
 - 🎓️教育 / Education
   - 地理教育 / Geography Education
   - 社会科教育 / Social Studies Education
+  - 情報教育 / Informatics Education
   - 初等教育 / Primary[Elementary] School Education
   
 - 💻情報学 / Informatics
