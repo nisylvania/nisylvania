@@ -19,6 +19,8 @@
   - Webデザイン / Web Design
   - 学習支援システム / Learning Support System
 
+特に地理認識，地図教育，地図帳，地理教育論に関して興味・関心を抱いています。
+
 ## Certifications / Licences
 - 基本情報技術者試験 合格 / Fundamental Information Technology Engineer Examination (2022.12)
 - 日本漢字能力検定 2級 / KANKEN(The Japan Kanji Aptitude Test) G2 (2022.09)
