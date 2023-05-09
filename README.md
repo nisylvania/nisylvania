@@ -2,7 +2,7 @@
 
 ## I'm interested in...
 - 🌏地理学 / Geography
-  - 地質学 / Geomorphology
+  - 地形学 / Geomorphology
   - 気候学 / Climatology
   - 地図学 / Cartography
   - 地理情報システム / Geographical Infomation System[GIS]
