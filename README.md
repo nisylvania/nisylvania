@@ -18,8 +18,12 @@
   - 情報デザイン / Infomation Design
   - Webデザイン / Web Design
   - 学習支援システム / Learning Support System
+  - 情報ネットワーク / Information Network
+  - 情報セキュリティ / Information Security
+  - 情報システム / Information System
 
-特に地理認識，地図教育，地図帳，地理教育論に関して興味・関心を抱いています。
+特に，地理教育（気候学習，地図学習）を専門としています。
+I'm major in geography education(climate learning & map / atlas learning) in particular.
 
 ## Certifications / Licences
 - 基本情報技術者試験 合格 / Fundamental Information Technology Engineer Examination (2022.12.27)
