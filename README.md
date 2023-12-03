@@ -22,8 +22,8 @@
   - 情報セキュリティ / Information Security
   - 情報システム / Information System
 
-特に，地理教育（気候学習，地図学習）を専門としています。
-I'm major in geography education(climate learning & map / atlas learning) in particular.
+特に，地理教育（気候学習）に興味・関心を抱いています。
+  I'm interested in geography education(climate learning) in particular.
 
 ## Certifications / Licences
 - 基本情報技術者試験 合格 / Fundamental Information Technology Engineer Examination (2022.12.27)
