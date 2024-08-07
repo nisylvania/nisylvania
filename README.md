@@ -24,6 +24,7 @@
 
 特に，地理教育（気候学習）に興味・関心を抱いています。
   I'm interested in geography education(climate learning) in particular.
+学会において気候学習に関する口頭発表の経験もあります。
 
 ## Certifications / Licences
 - 基本情報技術者試験 合格 / Fundamental Information Technology Engineer Examination (2022.12.27)
