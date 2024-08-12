@@ -1,4 +1,4 @@
-# kzmw(nisylvania) 
+# nisylvania
 
 ## I'm interested in...
 - 🌏地理学 / Geography
