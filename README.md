@@ -20,14 +20,13 @@
 
 特に，地理教育（気候学習）に興味・関心を抱いています。
   I'm interested in geography education(climate learning) in particular.
-学会において気候学習に関する口頭発表の経験もあります。
 
 ## Certifications / Licences
 - 基本情報技術者試験 合格 / Fundamental Information Technology Engineer Examination (2022.12.27)
 - 日本漢字能力検定 2級 / KANKEN(The Japan Kanji Aptitude Test) G2 (2022.09.27)
 - 普通自動車第一種運転免許 / Class 1 Driver’s License (2022.01.31)
-- 小学校教諭一種免許状 / Teacher's License(Elementary School) 取得見込
-- 中学校教諭一種免許状(社会) / Teacher's License(Social Studies of Junior High School) 取得見込
-- 高等学校教諭一種免許状(地理歴史) / Teacher's License(Geography and History of High School) 取得見込
-- 高等学校教諭一種免許状(公民) / Teacher's License(Civics of High School) 取得見込
-- 高等学校教諭一種免許状(情報) / Teacher's License(Information of High School) 取得見込
+- 小学校教諭一種免許状 / Teacher's License(Elementary School) (2025.03.25)
+- 中学校教諭一種免許状(社会) / Teacher's License(Social Studies of Junior High School) (2025.03.25)
+- 高等学校教諭一種免許状(地理歴史) / Teacher's License(Geography and History of High School) (2025.03.25)
+- 高等学校教諭一種免許状(公民) / Teacher's License(Civics of High School) (2025.03.25)
+- 高等学校教諭一種免許状(情報) / Teacher's License(Information of High School) (2025.03.25)
